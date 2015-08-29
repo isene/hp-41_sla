@@ -1,5 +1,5 @@
 # hp-41_sla
-## HP-41: Calculate guaranteed uptimes for a system composed of serial and paralell components.
+## HP-41: Calculate guaranteed uptimes for a system composed of serial and paralell components
 
 This program is useful for calculating system uptime guarantees as part of Service Level Agreements (SLAs).
 
