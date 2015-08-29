@@ -40,6 +40,7 @@ Find allowed downtime over
 per day, 5 days/week         8          Enter        8,0000
                              5          Enter        5,0000
                             30          D            1,1201
+```
 
 The output is the guaranteed uptime so far, except when a parallel system is entered, then the intermediate value for the parallel system is shown.
 
