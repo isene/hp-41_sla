@@ -47,3 +47,6 @@ The output is the guaranteed uptime so far, except when a parallel system is ent
 As you can see, the total guaranteed uptime for the whole system is 99,3%. System F is the singel component wasting the investment in system A and the redundant stack C-E.
 
 The 99,3% uptime guarantee allows for a maximum downtime of 1 hour and 12 minutes during a 30 days period where the SLA coverage is 8 hours, 5 days per week.
+
+## License
+This software is released into the Public Domain.
